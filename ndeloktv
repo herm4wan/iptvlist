@@ -1,4 +1,7 @@
 #EXTM3U
+
+
+
 #EXTINF:-1,USA:Discovery
 http://egyman.net:1978/live/01000/01000/6291.ts
 #EXTINF:-1,USA:Discovery_Showcase
@@ -21,6 +24,7 @@ http://egyman.net:1978/live/01000/01000/6284.ts
 http://egyman.net:1978/live/01000/01000/6293.ts
 #EXTINF:-1,USA:CW HD
 http://egyman.net:1978/live/01000/01000/6292.ts
+
 
 #EXTINF:-1,USA: NBCSN North West HD
 http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/74.ts
@@ -80,6 +84,7 @@ http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/59.ts
 http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/58.ts
 #EXTINF:-1,UK: BT Sport 1 HD
 http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/57.ts
+
 
 #EXTINF:-1,US FOX SPORTS 2 HD
 http://188.93.238.184:8000/live/snet/snet/37811.ts
